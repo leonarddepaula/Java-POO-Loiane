@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90ce865e-8f94-4722-a0a5-7af092c97268" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex-Loiane-POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Aula25/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Aula25/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula26/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula26/TesLampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula27/Contacorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula27/TesteConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula27Parte3/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula27Parte3/testeAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula27Parte4/JogoDaVelha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula27Parte4/TesteJogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula29/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula29/Carro2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula29/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula30/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula31/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula31/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula31Alt/TesteCarroAlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula32/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula32/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33/MinhaCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33Part01/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33Part01/TesteLampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33Part02/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33Part02/TesteContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33Part03/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33Part03/TesteAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33Part04/JogoDaVelha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula33Part04/TesteJogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula34/MinhaCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula34/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula34Part01/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula34Part01/Testecontador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula34Part02/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula34Part02/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula35/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula35/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula35Part01/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula35Part01/TesteFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula35Part02/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula35Part02/TestCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36/Telefone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36Part01/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36Part01/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36Part01/TesteAgenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36Part02/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36Part02/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36Part02/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula36Part02/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula37/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula37/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula37/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula37/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula38/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula38/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula38/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula38/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula39/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula39/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula39/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula39/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula40/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula40/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula40/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula40/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula41/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula41/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula41/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula41/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula42/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula42/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula42/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula42/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula42/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43Part01/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43Part01/ContaEspecial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43Part01/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43Part01/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43Part02/Contribuinte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43Part02/PessoaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43Part02/PessoaJuridica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula43Part02/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/AnimalDomesticado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/AnimalEstimacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/Cavalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAula44/Papagaio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe00/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe00/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe01/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe01/exe01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe02/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe02/LivroDeBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe02/LivroLivraria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe02/exe02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe02/exe03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe02/exe04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe05/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe05/exe05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe06/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exe06/exe06.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2A7gtRebD12Q0tKNL16iYCP8nrx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ex-Loiane-POO/src/JavaAula42&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ex-Loiane-POO\src\JavaAula42" />
+      <recent name="E:\ex-Loiane-POO\src\JavaAula41" />
+      <recent name="E:\ex-Loiane-POO\src\JavaAula40" />
+      <recent name="E:\ex-Loiane-POO\src\JavaAula39" />
+      <recent name="E:\ex-Loiane-POO\src\JavaAula38" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JavaAula43" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaAula43Part02.teste">
+    <configuration name="JavaAula41.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAula41.Teste" />
+      <module name="ex-Loiane-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAula41.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaAula43Part01.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAula43Part01.Teste" />
+      <module name="ex-Loiane-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAula43Part01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaAula43Part02.teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAula43Part02.teste" />
+      <module name="ex-Loiane-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAula43Part02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaAula43.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAula43.Teste" />
+      <module name="ex-Loiane-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAula43.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAula40.teste" />
+      <module name="ex-Loiane-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAula40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaAula43Part02.teste" />
+        <item itemvalue="Application.JavaAula43Part01.Teste" />
+        <item itemvalue="Application.JavaAula43.Teste" />
+        <item itemvalue="Application.JavaAula41.Teste" />
+        <item itemvalue="Application.teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ce865e-8f94-4722-a0a5-7af092c97268" name="Changes" comment="" />
+      <created>1654366255211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654366255211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
